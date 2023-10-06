@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff374a76-5847-448e-8095-ec24a280b8ae" name="Changes" comment="code de la class produitA, produitA1, produitA2 et produitFactory">
-      <change afterPath="$PROJECT_DIR$/src/produitA3.java" afterDir="false" />
+    <list default="true" id="ff374a76-5847-448e-8095-ec24a280b8ae" name="Changes" comment="factory methode exemple 1 avec la fabrique contrete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/produitA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/produitA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/produitA1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/produitA1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/produitA2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/produitA2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/produitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/produitFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +52,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696495978742</updated>
-      <workItem from="1696495983284" duration="2272000" />
+      <workItem from="1696495983284" duration="3219000" />
     </task>
+    <task id="LOCAL-00001" summary="factory methode exemple 1 avec la fabrique contrete">
+      <created>1696498418299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696498418299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code de la class produitA, produitA1, produitA2 et produitFactory" />
-    <option name="LAST_COMMIT_MESSAGE" value="code de la class produitA, produitA1, produitA2 et produitFactory" />
+    <MESSAGE value="factory methode exemple 1 avec la fabrique contrete" />
+    <option name="LAST_COMMIT_MESSAGE" value="factory methode exemple 1 avec la fabrique contrete" />
   </component>
 </project>
